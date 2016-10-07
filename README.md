@@ -1,3 +1,3 @@
 # mongoDbCompiler
-some  mongodb commands  Compiler (C language)
+some  mongodb commands  Interpreter (C language)
 
