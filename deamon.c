@@ -5,7 +5,7 @@
 #include<ws2tcpip.h>
 #include<windows.h>
 #include<dirent.h>
-#include "server.h"
+#include "deamon.h"
 
 
 char* split(const char *string,char delim,int *debut){
@@ -626,16 +626,3 @@ int main(){
      
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

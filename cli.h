@@ -69,5 +69,3 @@ void preparing_collection_name(char *collection);
 
 void DOCUMENT();
 void SHOWCOLLECTIONS();
-
-
